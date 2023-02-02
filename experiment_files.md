@@ -1,6 +1,9 @@
 ## Seja bem vindo!
 Aqui você irá encontrar as informações que foram utilizadas para a realização da pesquisa assim como a análise dos dados do experimento.
 
+## Aplicação de teste
+A aplicação utilizada no experimento encontra-se no seguinte [aqui](https://github.com/BrunaBecker/SAPI-Application-Build).
+
 ## Material grupo SAPI
 * Os videos e documentos a seguir foram enviados aos participantes do grupo SAPI: 
   * [Video aula 1](https://www.youtube.com/watch?v=3wFEUNbnqG0) e [Slide aula 1](https://drive.google.com/file/d/1G-GGpmU1bsda_gSs4SZYj_FttZSRoQuC/view?usp=share_link)    
