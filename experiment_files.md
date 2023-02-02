@@ -10,7 +10,6 @@ A aplicação utilizada no experimento encontra-se no seguinte [aqui](https://gi
   * [Video aula 2](https://www.youtube.com/watch?v=dFFK4DfKjkQ) e [Slide aula 2](https://drive.google.com/file/d/1v1CxeviB0474XSlCA4tN-_kwPloqD7I6/view?usp=share_link)
   * [Manual rápido do SAPI](https://drive.google.com/file/d/1unG4pLOQeNcmWOQDm00fO07YmD4P8QZq/view?usp=share_link)
   
- 
 ## Arquivos do experimento  
 * [Casos de teste coletados no experimento](https://drive.google.com/drive/folders/13LiYxpACwdRRbjAUmtnE91gpB7jPTfXT?usp=share_link)
 
