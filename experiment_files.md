@@ -2,7 +2,7 @@
 Aqui você irá encontrar as informações que foram utilizadas para a realização da pesquisa assim como a análise dos dados do experimento.
 
 ## Aplicação de teste
-A aplicação utilizada no experimento encontra-se no seguinte [aqui](https://github.com/BrunaBecker/SAPI-Application-Build).
+A aplicação utilizada no experimento encontra-se [aqui](https://github.com/BrunaBecker/SAPI-Application-Build).
 
 ## Material grupo SAPI
 * Os videos e documentos a seguir foram enviados aos participantes do grupo SAPI: 
